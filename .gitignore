@@ -2,3 +2,4 @@ venv/
 MLOPS_PROJECT_6c.egg-info
 logs/
 __pycache__/
+gcp-key.json
